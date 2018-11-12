@@ -18,6 +18,8 @@ You can mark any book under any category and it will show that category right th
 8. Now type `npm start` and the webapp will fire up at `http://localhost:3000/`.
 9. Repeat steps 5-8(`exclude step 7`), everytime you want to run the app afresh.
 
-**Warning - Do not modify any content inside any of the folders.**
+# Warning - 
+
+**Do not modify any content inside any of the folders.**
 
 **Do not stop the application in terminal while its running.**
